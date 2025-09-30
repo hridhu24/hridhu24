@@ -6,21 +6,21 @@
 📫 How to reach me: [hridhu24@gmail.com](mailto:hridhu24@gmail.com)  
 
 ---
-
+<!--
 ### 🔭 My GitHub Stats
 ![Hridhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hridhu24&show_icons=true&theme=radical)
+-->
 
 ### ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridhu24&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridhu24&layout=compact&theme=tokyonight)
 
 ---
 
 ### 💻 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Backend:** Node.js, Express, FastAPI  
 - **Database:** MySQL, MongoDB  
 - **AI/ML:** Python, TensorFlow, OpenCV, NLP, Pose Estimation  
-- **Other Tools:** Git, GitHub, Figma, REST APIs  
+- **Other Tools:** Git, GitHub, Figma  
 
 ---
 
