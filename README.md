@@ -6,15 +6,11 @@
 📫 How to reach me: [hridhu24@gmail.com](mailto:hridhu24@gmail.com)  
 
 ---
-<!--
-
-### 🔭 My GitHub Stats
-![Hridhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hridhu24&show_icons=true&theme=tokyonight&count_private=true)
--->
-
-### ⚡ Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hridhu24&layout=compact&theme=tokyonight&count_private=true)
-
+![hridhu24's Stats](https://github-readme-stats.vercel.app/api?username=hridhu24&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+---
+![hridhu24's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hridhu24&theme=tokyonight&hide_border=true)
+---
+![hridhu24's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hridhu24&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ### 💻 Tech Stack
